@@ -1,0 +1,9 @@
+.heading::after {
+  content: '';
+  width: 20%;
+  background-color: red;
+  height: 2px;
+  top: 30px;
+  left: 41%;
+  position: absolute;
+}
